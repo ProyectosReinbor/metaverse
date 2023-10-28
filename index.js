@@ -1,4 +1,8 @@
 window.addEventListener(
     'load',
-    ()=>
-empezar());
+    () => new Metaverso());
+class Metaverso {
+    constructor() {
+        this.
+    }
+}
